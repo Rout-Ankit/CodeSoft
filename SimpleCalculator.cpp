@@ -6,7 +6,7 @@ int main()
     float num1;
     float num2;
     char arithmeticOP;
-    cout << "-------------------------------------------------\n \t \t !DISCLAIMER! \n 1.This Is A Simple Calculator(You Can Use +,-,*,/). \n 2.If You Want To Quit PRESS '0'. \n ------------------------------------------------- \n";
+    cout << "---------------------------------------------------\n \t \t !DISCLAIMER! \n 1.This Is A Simple Calculator(You Can Use +,-,*,/). \n 2.If You Want To Quit PRESS '0'. \n ------------------------------------------------- \n";
     while (true)
     {
         cout << "Enter two numbers: \n";
